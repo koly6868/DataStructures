@@ -1,0 +1,8 @@
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\bin\Debug\netcoreapp2.0\MyDataStructures.deps.json
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\bin\Debug\netcoreapp2.0\MyDataStructures.dll
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\bin\Debug\netcoreapp2.0\MyDataStructures.pdb
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.AssemblyInfoInputs.cache
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.AssemblyInfo.cs
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.dll
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.pdb
