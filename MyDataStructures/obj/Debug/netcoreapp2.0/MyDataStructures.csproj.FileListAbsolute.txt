@@ -6,3 +6,4 @@ C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\M
 C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.AssemblyInfo.cs
 C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.dll
 C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.pdb
+C:\Users\kol9l\source\repos\HashTable\MyDataStructures\obj\Debug\netcoreapp2.0\MyDataStructures.csprojResolveAssemblyReference.cache
