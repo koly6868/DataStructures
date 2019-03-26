@@ -42,6 +42,4 @@ namespace Tests
             Assert.Throws<IndexOutOfRangeException>(() => table[removeKey]);
         }
     }
-
-   
 }
